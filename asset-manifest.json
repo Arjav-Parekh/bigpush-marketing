@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bigpush-marketing/static/css/main.aa3d119e.chunk.css",
+    "main.js": "/bigpush-marketing/static/js/main.4b695962.chunk.js",
+    "main.js.map": "/bigpush-marketing/static/js/main.4b695962.chunk.js.map",
+    "runtime-main.js": "/bigpush-marketing/static/js/runtime-main.f9e94033.js",
+    "runtime-main.js.map": "/bigpush-marketing/static/js/runtime-main.f9e94033.js.map",
+    "static/js/2.13c41719.chunk.js": "/bigpush-marketing/static/js/2.13c41719.chunk.js",
+    "static/js/2.13c41719.chunk.js.map": "/bigpush-marketing/static/js/2.13c41719.chunk.js.map",
+    "index.html": "/bigpush-marketing/index.html",
+    "static/css/main.aa3d119e.chunk.css.map": "/bigpush-marketing/static/css/main.aa3d119e.chunk.css.map",
+    "static/js/2.13c41719.chunk.js.LICENSE.txt": "/bigpush-marketing/static/js/2.13c41719.chunk.js.LICENSE.txt",
+    "static/media/blog1.8effdc4a.png": "/bigpush-marketing/static/media/blog1.8effdc4a.png",
+    "static/media/business.ace7ce58.png": "/bigpush-marketing/static/media/business.ace7ce58.png",
+    "static/media/claushaler 1.b9af0f1f.png": "/bigpush-marketing/static/media/claushaler 1.b9af0f1f.png",
+    "static/media/gorilla.cfe9b400.png": "/bigpush-marketing/static/media/gorilla.cfe9b400.png",
+    "static/media/schedule.5d330e5a.png": "/bigpush-marketing/static/media/schedule.5d330e5a.png",
+    "static/media/videosample1.ade8b8f6.png": "/bigpush-marketing/static/media/videosample1.ade8b8f6.png",
+    "static/media/videosample2.6cd7b730.png": "/bigpush-marketing/static/media/videosample2.6cd7b730.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9e94033.js",
+    "static/js/2.13c41719.chunk.js",
+    "static/css/main.aa3d119e.chunk.css",
+    "static/js/main.4b695962.chunk.js"
+  ]
+}
