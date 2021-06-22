@@ -346,7 +346,7 @@ a.middle:hover:before {
 .cost-effect-container{
     
     text-align: center;
-    margin-top: 170px;
+    margin-top: 150px;
     padding-right: 100px;
     padding-left: 100px;
 }
@@ -354,11 +354,11 @@ a.middle:hover:before {
 .cost-effect-container h1{
     font-family: 'DM Sans';
     font-weight: 500;
-    font-size: 46px;
+    font-size: 44px;
     color: #02345C;
     padding-left: 160px;
     padding-right: 160px;
-    padding-bottom: 80px;
+    padding-bottom: 70px;
 }
 .cost-indi{
     padding-left: 80px;
@@ -443,16 +443,17 @@ a.middle:hover:before {
 .why-container{
     
 
-    margin-top: 110px;
+    margin-top: 90px;
 
     padding:100px 140px 120px 140px;
     background-color: #F5F5F5;
 }
 
 .why-container h1{
+    text-align: center;
     font-family: 'DM Sans';
     font-weight: 500;
-    font-size: 45px;
+    font-size: 44px;
     line-height: 65px;
     color: #02345C;
     padding-left: 150px;
@@ -464,7 +465,7 @@ a.middle:hover:before {
     font-family: 'Open Sans';
     color: #4D4D4D;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
 }
 
 .why-row{
@@ -480,7 +481,7 @@ a.middle:hover:before {
 .why-container .text-col p{
 
     text-align: left;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 28px;
 }
 
@@ -488,7 +489,7 @@ a.middle:hover:before {
 @media(max-width:800px){
     .why-container h1{
 
-        font-size: 36px;
+        font-size: 35px;
         line-height: 52px;
         text-align: center;
         padding-left: 40px;
@@ -496,7 +497,7 @@ a.middle:hover:before {
     }
     .why-container p{
 
-        font-size: 16px;
+        font-size: 15px;
     }
 
     .why-row{
@@ -562,7 +563,7 @@ a.middle:hover:before {
 .gradient-container{
     text-align: center;
     color: #fff;
-    padding:120px 230px 100px 230px;
+    padding:80px 230px 80px 230px;
     background: linear-gradient(150.42deg, #30BFD9 -39.4%, #02345C 115.2%);
 }
 
@@ -581,7 +582,7 @@ a.middle:hover:before {
 }
 
 .join-row{
-    margin-top: 100px;
+    margin-top: 70px;
 
 }
 
@@ -660,7 +661,7 @@ a.middle:hover:before {
     .step-process-container{
         padding: 100px 120px 90px 120px;
         background-color: #F5F5F5;
-        margin-top: 160px;
+        margin-top: 120px;
     }
 
 .step-col{
@@ -881,6 +882,7 @@ a.middle:hover:before {
 .schedule-container{
     background-color:#F5F5F5;
     padding: 120px;
+    padding-top: 90px;
 }
 
 .schedule-container h1{
@@ -1161,7 +1163,7 @@ a.middle:hover:before {
 }
 
 .business-container{
-    padding: 120px 180px 200px 180px;
+    padding: 90px 180px 90px 180px;
 }
 
 .business-container h1{
@@ -1244,7 +1246,7 @@ a.middle:hover:before {
 
 .values-container{
     background-color:  #F9F9F9;
-    padding: 120px 180px 200px 180px;
+    padding: 90px 180px 90px 180px;
     text-align: center;
 }
 
@@ -1379,7 +1381,7 @@ a.middle:hover:before {
     }
 }
 .flow-chart-video-container{
-    padding: 120px 180px 120px 180px;
+    padding: 90px 180px 90px 180px;
     background-color: #F5F5F5;
 }
 
@@ -1434,7 +1436,7 @@ a.middle:hover:before {
 }
 
 .who-container{
-    padding: 120px 180px 120px 180px;
+    padding: 90px 180px 90px 180px;
     
 }
 

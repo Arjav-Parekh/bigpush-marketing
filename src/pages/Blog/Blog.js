@@ -18,7 +18,7 @@ function Blog() {
         <br />
         <div
           className="row blog-title-container-row"
-          style={{ overflowX: "scroll" }}
+         
         >
           <div className="col-2">
             <p>ALL</p>
@@ -30,7 +30,7 @@ function Blog() {
             <p style={{ width: "max-content" }}>SOCIAL MEDIA MARKETING</p>
           </div>
           <div className="col-2">
-            <p style={{ marginLeft: "40px" }}>PRODUCTIVITY</p>
+            <p style={{ marginLeft: "0px" }}>PRODUCTIVITY</p>
           </div>
           <div className="col-2">
             <p>BUSINESS</p>
@@ -45,7 +45,7 @@ function Blog() {
           <span style={{ marginLeft: "20px", color: "#4d4d4d" }}>View All</span>
           <br />
           <br />
-          <div className="row" style={{ width: "1200px", overflowX: "scroll" }}>
+          <div className="row" style={{ width: "1200px"}}>
             <div className="col">
               <div className="blog-card">
                 <img src={BlogSample1} alt="" width="270px" />

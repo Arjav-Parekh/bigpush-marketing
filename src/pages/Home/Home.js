@@ -135,7 +135,7 @@ function Home(){
             </div>
           </div>
         </div>
-        <div className="cost-effect-container">
+        <div className="cost-effect-container" style={{marginTop:"120px"}}>
           <h1>How Do you Get Started?</h1>
          
           <div className="row setting" style={{textAlign: 'center'}}>
